@@ -14,4 +14,4 @@ percent = total/500*100
 
 print(f" name is {name} age is {age}")
 print(f"total is {total} ")
-print(percent)
+print (percent)
