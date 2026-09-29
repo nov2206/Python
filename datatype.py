@@ -25,3 +25,14 @@ print(type(marks),marks)
 name_dev = True
 
 print(type(name_dev),name_dev)
+
+# list
+
+one = ['banana',"cherry","apple"]
+
+print(type(one));
+
+# complex  write with number and text
+
+Jain = 22j
+print()
